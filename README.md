@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @muraasra
+- 👋 Hi, I’m Tayou Wilfrid 
 - 👀 I’m interested in php
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on jeanronald22 and prosper
+- 🌱 I’m currently learning symfony 
 
 
 <!---
