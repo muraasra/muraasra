@@ -1,7 +1,7 @@
 
 # Bonjour, je m'appelle Tayou fom !
 
-Je suis un développeur passionné par la programmation orientée objet, notamment avec les technologies Symfony, React et Python.
+Je suis un développeur passionné par la programmation orientée objet, notamment avec les technologies Symfony, vuejs et Python.
 
 Depuis plusieurs années maintenant, je m'investis dans l'apprentissage et la pratique de ces frameworks et langages, que je considère comme des outils puissants et versatiles pour créer des applications web modernes et performantes.
 
